@@ -3,19 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/youssef-ben-salem">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-  </a>
-  <a href="https://github.com/jozefelmanga">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-  </a>
-  <a href="mailto:youssefbselem@gmail.com">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnKonfpQhRgvPw7yX3/giphy.gif" width="400" alt="Coding GIF"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZqcmIxZDVjMmVpamxuOG1uY2o3bTI5aHJ0NnIzbmZqNHMwbWZ1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lny6Rw04nsOOc/giphy.gif" width="400" alt="Coding GIF"/>
 </div>
 
 ---
@@ -90,15 +78,12 @@ I’ve taken part in several **internships** and **professional experiences**, b
 ## 📫 Get In Touch
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/youssef-ben-salem">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:youssefbselem@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/jozefelmanga">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011087377023)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/youssef_ben_selem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-ben-salem)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_majara_)
+
 </div>
 
 ---
