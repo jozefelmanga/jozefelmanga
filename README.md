@@ -29,24 +29,33 @@ education: Software Engineering (National Engineering Diploma)
 institution: Higher Institute of Applied Science and Technology of Sousse (ISSATSO)
 status: Currently pursuing Software Engineering degree
 interests: [Full-Stack Development, Entrepreneurship, UI/UX Design, Automation]
-languages: [Arabic, English, French]
 ```
 
-### 🚀 Current Role
-**Co-Founder & Co-Owner** at **Zan9a Stickers** (Nov 2024 - Present)
-- Founded and operated a custom sticker business
-- Automated core workflows using Python (Supabase, Cloudinary, Illustrator batch scripts)
-- Managed end-to-end processes including branding, marketing, and order fulfillment
+## 💼 Experience
 
-### 💼 Professional Experience
-- **Front-End Developer** at **Start Now** (Jul 2024 - Aug 2024)
-  - Resolved 32 Jira tickets, enhancing UI/UX and increasing site responsiveness by 30%
-  - Collaborated with team members using GitLab and contributed code reviews
+I’ve taken part in several **internships** and **professional experiences**, building real-world software and collaborating with agile teams.
 
-- **Full-Stack Developer Intern** at **Start Now** (Feb 2024 - May 2024)
-  - Developed file management module for Building Management System using React.js, Express.js, Node.js
-  - Boosted data organization and retrieval efficiency by 25%
-  - Applied Scrum methodology, reducing project time by 15%
+### 🧩 Roles I've Taken
+- 👨‍💻 **Front-End Developer** – focused on UI/UX improvements, responsiveness, and design systems
+- 🔁 **Full-Stack Developer Intern** – worked across the stack using **React.js**, **Node.js**, and **Express**
+
+### 🚀 What I Did
+- ✅ Resolved dozens of development tasks and feature requests
+- 📂 Built file management modules for internal tools
+- 🛠️ Improved performance, responsiveness, and team workflows
+- 🔁 Practiced agile methodologies (Scrum), version control (GitLab), and code reviews
+
+### 🧠 Skills Gained
+`React.js` • `Node.js` • `Express.js` • `GitLab` • `Jira` • `Agile (Scrum)` • `UI/UX` • `Team collaboration`
+
+
+---
+
+## 🌍 Community & Content Contributions
+
+- 👨‍🎓 **Creator of [After Graduation Guide](https://after-graduation.vercel.app)** – a bilingual resource to help Tunisian students navigate post-grad options.
+- 🧭 **Contributor to [ISET Zaghouan Student Guide](https://protective-harmony-573.notion.site/Guide-ISET-Zaghouan-b146cd4c35f44b43b40a3a974aed2924)** – collected and structured academic data for new students.
+- 🖊️ **Technical content creator on [LinkedIn](https://linkedin.com/in/youssef-ben-salem)** – posts on React, .env, GitHub & more.
 
 ---
 
@@ -75,38 +84,6 @@ languages: [Arabic, English, French]
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
----
-
-## 🏆 Key Achievements
-
-### 🎯 Entrepreneurship
-- **Co-founded Zan9a Stickers** - Secured event sponsorships (Coding Moon @ EPI, TEDxHadrumet by AIESEC)
-- **Scaled business visibility** across university communities
-
-### 👥 Leadership & Community
-- **Co-led LinkedIn workshop** at IHEC, training 25+ Business & Finance students on personal branding
-- **Participated in Enactus National Exposition** 3 times, led video editing efforts
-- **Won 3rd place** in latest Enactus edition with sustainable leather alternative from cactus
-- **Built and led team of 8** to create student life guide for ISET Zaghouan (2.5K+ views)
-
-### 📚 Certifications
-- **Azure AI Fundamentals** (Microsoft)
-- **Scrum Fundamentals Certified** (SFC)
-- **Angular & Spring Boot** (crococoder)
-- **JavaScript Essentials** (LinkedIn Learning)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jozefelmanga&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jozefelmanga&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jozefelmanga&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
 
 ---
 
@@ -128,10 +105,4 @@ languages: [Arabic, English, French]
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=30&animation=fadeIn&fontAlignY=38" alt="Footer" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=jozefelmanga&icon=0&color=0" alt="Profile Views"/>
 </div>
